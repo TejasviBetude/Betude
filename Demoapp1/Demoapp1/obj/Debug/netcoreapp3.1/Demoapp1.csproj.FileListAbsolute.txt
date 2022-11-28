@@ -1,0 +1,14 @@
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\bin\Debug\netcoreapp3.1\Demoapp1.exe
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\bin\Debug\netcoreapp3.1\Demoapp1.deps.json
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\bin\Debug\netcoreapp3.1\Demoapp1.runtimeconfig.json
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\bin\Debug\netcoreapp3.1\Demoapp1.runtimeconfig.dev.json
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\bin\Debug\netcoreapp3.1\Demoapp1.dll
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\bin\Debug\netcoreapp3.1\Demoapp1.pdb
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.csproj.AssemblyReference.cache
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.AssemblyInfoInputs.cache
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.AssemblyInfo.cs
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.csproj.CoreCompileInputs.cache
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.dll
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.pdb
+C:\Users\2000081342\source\repos\Demoapp1\Demoapp1\obj\Debug\netcoreapp3.1\Demoapp1.genruntimeconfig.cache

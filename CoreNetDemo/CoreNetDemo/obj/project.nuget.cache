@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXjaiterMHr2nufuqEStjwzPjDvKQFKk12kjWpPNEt+8DuRTP/eMqFMxh4D9x5zk6Pl+b8bBJJfVyvNuWsWilw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2000081342\\source\\repos\\CoreNetDemo\\CoreNetDemo\\CoreNetDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2000081342\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\2000081342\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

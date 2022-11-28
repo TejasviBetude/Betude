@@ -1,0 +1,14 @@
+C:\Users\2000081342\source\repos\Practice01\bin\Debug\netcoreapp3.1\Practice01.exe
+C:\Users\2000081342\source\repos\Practice01\bin\Debug\netcoreapp3.1\Practice01.deps.json
+C:\Users\2000081342\source\repos\Practice01\bin\Debug\netcoreapp3.1\Practice01.runtimeconfig.json
+C:\Users\2000081342\source\repos\Practice01\bin\Debug\netcoreapp3.1\Practice01.runtimeconfig.dev.json
+C:\Users\2000081342\source\repos\Practice01\bin\Debug\netcoreapp3.1\Practice01.dll
+C:\Users\2000081342\source\repos\Practice01\bin\Debug\netcoreapp3.1\Practice01.pdb
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.csproj.AssemblyReference.cache
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.AssemblyInfoInputs.cache
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.AssemblyInfo.cs
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.csproj.CoreCompileInputs.cache
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.dll
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.pdb
+C:\Users\2000081342\source\repos\Practice01\obj\Debug\netcoreapp3.1\Practice01.genruntimeconfig.cache
